@@ -1,0 +1,17 @@
+(function(){
+  window['optimizely'] = window['optimizely'] || [];
+  window['optimizely'].push(['activateGeoDelayedExperiments', {
+    'location':{
+      'city': "KOZHIKODE",
+      'continent': "AS",
+      'country': "IN",
+      'region': "KL",
+      'dma': ""
+    },
+    'ip':"2405:201:f006:182c:f4f8:699:bceb:cc9"
+  }]);
+})
+
+()
+
+;
